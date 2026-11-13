@@ -1,42 +1,60 @@
 ﻿<div align="center">
+  <img src="assets/banner.svg" alt="Venkatasaarathy R — Computer Science Student and Full-Stack Developer" width="100%" />
 
-# Venkatasaarathy R
+  <br /><br />
 
-### Computer Science Student · Full-Stack Developer · Data Science Learner
+  <a href="https://venkatasaarathy.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/venkatasaarathy/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/Venkatasaarathy/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="mailto:venkatasaarathy@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 
-Building clean, responsive web products and data-driven tools — from idea to deployed app.
+  <br /><br />
 
-<a href="https://venkatasaarathy.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
-</a>
-<a href="https://www.linkedin.com/in/venkatasaarathy/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://leetcode.com/u/Venkatasaarathy/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-</a>
-<a href="mailto:venkatasaarathy@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=640&lines=Building+full-stack+web+apps+with+React;Exploring+data+science+and+cloud;Turning+real+problems+into+shipped+products;Open+to+internships+and+collaborations" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=22&pause=1200&color=2F81F7&center=true&vCenter=true&width=620&lines=React+%7C+Vite+%7C+React+Router;Python+%7C+Java+%7C+SQL;Turning+ideas+into+deployed+products;Always+learning%2C+always+building" alt="Typing SVG" />
+  <br />
 
-<img src="https://komarev.com/ghpvc/?username=Venkat-1506&style=flat-square&color=2F81F7" alt="Profile views" />
-
+  <img src="https://komarev.com/ghpvc/?username=Venkat-1506&style=flat-square&color=2F81F7" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Venkat-1506?style=flat-square&color=2F81F7&label=Followers" alt="Followers" />
+  <img src="https://img.shields.io/badge/Open%20to-Internships-22d3ee?style=flat-square" alt="Open to internships" />
 </div>
 
 ---
 
 ## About Me
 
-I'm a Computer Science and Engineering undergraduate at **Prince Dr. K. Vasudevan College of Engineering and Technology, Chennai**, and a **BS in Data Science and Applications** student at **IIT Madras**.
+I'm a **Computer Science and Engineering** undergraduate at **Prince Dr. K. Vasudevan College of Engineering and Technology, Chennai**, and a **BS in Data Science and Applications** student at **IIT Madras**.
 
-I enjoy turning real problems into working software — designing the UI, wiring the logic, and shipping it. My recent work focuses on **React front-end applications** with thoughtful state management, role-based access, and fully responsive layouts, backed by **Python** and **Java** fundamentals.
+I like taking a problem from idea to deployed product — designing the interface, structuring the state, and shipping something people can actually use. My work centers on **React front-end applications** with role-based access, persistent client-side state, and fully responsive layouts, backed by **Java**, **Python**, and **SQL** fundamentals.
 
-- Currently building production-style React apps and improving my data engineering skills
-- Learning **Data Engineering**, **Cloud Computing**, and **PostgreSQL**
-- Strong foundation in **Data Structures, OOP, MVC architecture, and problem-solving**
-- Open to internships, collaborations, and open-source contributions
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>What I'm doing now</strong>
+      <ul>
+        <li>Building production-style React applications</li>
+        <li>Strengthening data engineering and SQL skills</li>
+        <li>Solving DSA problems on LeetCode</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <strong>What I enjoy</strong>
+      <ul>
+        <li>Clean UI, thoughtful UX, and accessible design</li>
+        <li>Turning datasets into useful, explainable models</li>
+        <li>Chess, cricket, travel, and continuous learning</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -48,39 +66,90 @@ I enjoy turning real problems into working software — designing the UI, wiring
 | **IIT Madras** | BS in Data Science and Applications · Foundation Level in progress |
 | **Deployed apps** | 3 production-style React applications live on Netlify |
 | **NPTEL** | Object-Oriented Programming — **Elite Grade (79%)** |
-| **Certifications** | HackerRank Java · FreeCodeCamp Responsive Web Design (v8 & v9) · Microsoft Canvas App · Microsoft Secure Storage |
 | **Hackathon** | Smart India Hackathon prototype — **BUS-SENSE AI**, a smart city and transport command center |
-| **SIH Prototype** | React + FastAPI + YOLO pipeline turning bus camera and GPS data into actionable city alerts |
+| **Certifications** | HackerRank Java · FreeCodeCamp Responsive Web Design · Microsoft Canvas App · Microsoft Secure Storage |
 | **Typewriting** | Senior Grade with Distinction |
 
 ---
 
-## Featured Projects
+## Featured Work
 
-### [RoleCompass](https://rolecompass1.netlify.app/) · [Code](https://github.com/Venkat-1506/rolecompass)
-Career-intelligence platform connecting candidates and employers. Candidates discover roles, benchmark skills, follow learning roadmaps, and track applications; employers publish roles and manage a hiring pipeline. Role-based route guards and a full design system — entirely on the front end.
+<table>
+  <tr>
+    <td width="52%">
+      <a href="https://rolecompass1.netlify.app/">
+        <img src="assets/projects/rolecompass.jpg" alt="RoleCompass — career intelligence platform" width="100%" />
+      </a>
+    </td>
+    <td width="48%" valign="top">
+      <h3>RoleCompass</h3>
+      <p>Career-intelligence platform where candidates discover roles, score their skill fit, follow learning roadmaps, and track applications — while employers publish roles and manage a hiring pipeline.</p>
+      <p><code>React 19</code> <code>Vite</code> <code>React Router 7</code> <code>Context API</code></p>
+      <p>
+        <a href="https://rolecompass1.netlify.app/"><strong>Live demo</strong></a> ·
+        <a href="https://github.com/Venkat-1506/rolecompass">Source</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-`React 19` `Vite` `React Router 7` `Context API` `localStorage`
+<table>
+  <tr>
+    <td width="52%">
+      <a href="https://contactdesk.netlify.app/">
+        <img src="assets/projects/contactdesk.jpg" alt="ContactDesk — personal relationship CRM" width="100%" />
+      </a>
+    </td>
+    <td width="48%" valign="top">
+      <h3>ContactDesk <span style="font-weight:400;color:#8b949e">(People Atlas)</span></h3>
+      <p>A personal relationship CRM for your close circle, family, classmates, and professional network — with live SVG insight charts, isolated workspaces, and JSON import/export.</p>
+      <p><code>React 19</code> <code>React Router</code> <code>Vite</code> <code>Vitest</code></p>
+      <p>
+        <a href="https://contactdesk.netlify.app/"><strong>Live demo</strong></a> ·
+        <a href="https://github.com/Venkat-1506/ContactDesk">Source</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-### [ContactDesk (People Atlas)](https://contactdesk.netlify.app/) · [Code](https://github.com/Venkat-1506/ContactDesk)
-A personal relationship CRM for your close circle, family, classmates, and professional network. Includes live SVG insight charts, workspace isolation, contact forms with validation, and JSON import/export.
+<table>
+  <tr>
+    <td width="52%">
+      <a href="https://venkatasaarathy.netlify.app/">
+        <img src="assets/projects/portfolio.jpg" alt="Personal portfolio — dual-mode UI" width="100%" />
+      </a>
+    </td>
+    <td width="48%" valign="top">
+      <h3>Personal Portfolio</h3>
+      <p>A dual-mode (<code>engineering</code> / <code>creative</code>) portfolio with an animated canvas background, custom cursor, reveal-on-scroll animations, and client-side routing.</p>
+      <p><code>React 19</code> <code>Vite</code> <code>React Router</code> <code>CSS</code></p>
+      <p>
+        <a href="https://venkatasaarathy.netlify.app/"><strong>Live demo</strong></a> ·
+        <a href="https://github.com/Venkat-1506/myportfolio-react">Source</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-`React 19` `React Router` `Vite` `Vanilla CSS` `Vitest`
+<table>
+  <tr>
+    <td width="52%">
+      <a href="https://github.com/Venkat-1506/risk-radar">
+        <img src="assets/projects/bussense.jpg" alt="BUS-SENSE AI — smart city and transport command center" width="100%" />
+      </a>
+    </td>
+    <td width="48%" valign="top">
+      <h3>BUS-SENSE AI</h3>
+      <p>Smart India Hackathon prototype that turns bus camera and GPS observations into actionable city alerts — potholes, waterlogging, obstructions, and more — for transport and urban intelligence.</p>
+      <p><code>React</code> <code>FastAPI</code> <code>YOLO</code> <code>Python</code></p>
+      <p>
+        <a href="https://github.com/Venkat-1506/risk-radar"><strong>Source</strong></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-### [Portfolio](https://venkatasaarathy.netlify.app/) · [Code](https://github.com/Venkat-1506/myportfolio-react)
-A dual-mode (`engineering` / `creative`) personal portfolio with animated canvas background, custom cursor, reveal-on-scroll animations, and client-side routing.
-
-`React 19` `Vite` `React Router` `CSS`
-
-### [BUS-SENSE AI — Smart City Command Center](https://github.com/Venkat-1506/risk-radar)
-Smart India Hackathon prototype that turns bus camera and GPS observations into actionable city alerts for transport and urban intelligence.
-
-`React` `FastAPI` `YOLO` `Python`
-
-<details>
-<summary><strong>More projects</strong></summary>
-
-<br />
+### More Projects
 
 | Project | Description | Stack |
 | --- | --- | --- |
@@ -91,9 +160,7 @@ Smart India Hackathon prototype that turns bus camera and GPS observations into 
 | [Take It Quiz](https://github.com/Venkat-1506/take-it-quiz) | Secure quiz platform with proctored exams, anti-cheating monitoring, and analytics | React · JavaScript |
 | [Diabetes Prediction](https://github.com/Venkat-1506/CodeAlpha_DiseasePrediction) | Logistic regression classifier for early diabetes indicators | Python · Pandas · Scikit-learn |
 | [Handwritten Digit Recognition](https://github.com/Venkat-1506/CodeAlpha_HandwrittenRecognition) | CNN trained on MNIST with ~97% accuracy | Python · TensorFlow |
-| [OOPS Java Projects](https://github.com/Venkat-1506/OOPS-Java-Projects) | Collection of console apps demonstrating OOP, collections, exceptions, and design patterns | Java · OOP |
-
-</details>
+| [OOPS Java Projects](https://github.com/Venkat-1506/OOPS-Java-Projects) | Console apps demonstrating OOP, collections, exceptions, and design patterns | Java · OOP |
 
 ---
 
@@ -113,12 +180,17 @@ Smart India Hackathon prototype that turns bus camera and GPS observations into 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+
+<br />
+
+**Currently learning:** Data Engineering · Cloud Computing · PostgreSQL
 
 </div>
 
@@ -134,6 +206,10 @@ Smart India Hackathon prototype that turns bus camera and GPS observations into 
 <br /><br />
 
 <img src="https://streak-stats.demolab.com?user=Venkat-1506&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+<br /><br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Venkat-1506&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" width="100%" />
 
 </div>
 
