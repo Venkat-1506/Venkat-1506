@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 # Venkatasaarathy R
 
@@ -9,7 +9,7 @@ Building clean, responsive web products and data-driven tools — from idea to d
 <a href="https://venkatasaarathy.netlify.app/">
   <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
 </a>
-<a href="https://www.linkedin.com/in/venkatasaarathy-r-73a226386">
+<a href="https://www.linkedin.com/in/venkatasaarathy/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://leetcode.com/u/Venkatasaarathy/">
@@ -153,7 +153,7 @@ Smart India Hackathon prototype that turns bus camera and GPS observations into 
 <div align="center">
 
 <a href="https://venkatasaarathy.netlify.app/">Portfolio</a> ·
-<a href="https://www.linkedin.com/in/venkatasaarathy-r-73a226386">LinkedIn</a> ·
+<a href="https://www.linkedin.com/in/venkatasaarathy/">LinkedIn</a> ·
 <a href="https://leetcode.com/u/Venkatasaarathy/">LeetCode</a> ·
 <a href="https://github.com/Venkat-1506">GitHub</a> ·
 <a href="mailto:venkatasaarathy@gmail.com">Email</a>
