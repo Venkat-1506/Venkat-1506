@@ -96,25 +96,6 @@ I like taking a problem from idea to deployed product — designing the interfac
 <table>
   <tr>
     <td width="52%">
-      <a href="https://contactdesk.netlify.app/">
-        <img src="assets/projects/contactdesk.jpg" alt="ContactDesk — personal relationship CRM" width="100%" />
-      </a>
-    </td>
-    <td width="48%" valign="top">
-      <h3>ContactDesk <span style="font-weight:400;color:#8b949e">(People Atlas)</span></h3>
-      <p>A personal relationship CRM for your close circle, family, classmates, and professional network — with live SVG insight charts, isolated workspaces, and JSON import/export.</p>
-      <p><code>React 19</code> <code>React Router</code> <code>Vite</code> <code>Vitest</code></p>
-      <p>
-        <a href="https://contactdesk.netlify.app/"><strong>Live demo</strong></a> ·
-        <a href="https://github.com/Venkat-1506/ContactDesk">Source</a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td width="52%">
       <a href="https://venkatasaarathy.netlify.app/">
         <img src="assets/projects/portfolio.jpg" alt="Personal portfolio — dual-mode UI" width="100%" />
       </a>
@@ -191,25 +172,6 @@ I like taking a problem from idea to deployed product — designing the interfac
 <br />
 
 **Currently learning:** Data Engineering · Cloud Computing · PostgreSQL
-
-</div>
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Venkat-1506&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venkat-1506&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-
-<br /><br />
-
-<img src="https://streak-stats.demolab.com?user=Venkat-1506&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-<br /><br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Venkat-1506&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" width="100%" />
 
 </div>
 
