@@ -1,5 +1,5 @@
 ﻿<div align="center">
-  <img src="assets/banner.svg" alt="Venkatasaarathy R — Computer Science Student and Full-Stack Developer" width="100%" />
+  <img src="assets/banner.svg?v=2" alt="Venkatasaarathy R — Computer Science Student and Full-Stack Developer" width="100%" />
 
   <br /><br />
 
@@ -22,7 +22,6 @@
 
   <br />
 
-  <img src="https://komarev.com/ghpvc/?username=Venkat-1506&style=flat-square&color=2F81F7" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/Venkat-1506?style=flat-square&color=2F81F7&label=Followers" alt="Followers" />
   <img src="https://img.shields.io/badge/Open%20to-Internships-22d3ee?style=flat-square" alt="Open to internships" />
 </div>
