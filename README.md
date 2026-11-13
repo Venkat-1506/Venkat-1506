@@ -42,7 +42,7 @@ I enjoy turning real problems into working software — designing the UI, wiring
 
 ## Highlights
 
-| | |
+| Milestone | Detail |
 | --- | --- |
 | **B.E. CSE** | Prince Dr. K. Vasudevan College of Engineering and Technology · CGPA **8.7** · Expected 2029 |
 | **IIT Madras** | BS in Data Science and Applications · Foundation Level in progress |
